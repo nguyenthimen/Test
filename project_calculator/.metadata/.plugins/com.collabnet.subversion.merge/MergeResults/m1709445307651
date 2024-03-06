@@ -1,0 +1,21 @@
+:normalEnd:
+project: \MyProject
+fromUrl: https://desktop-hortjob/svn/MyProject
+toUrl: https://desktop-hortjob/svn/MyProject
+force: false
+recurse: false
+ignore: false
+depth: 0
+Summary result: type: 0 category: Added number: 1
+Summary result: type: 0 category: Updated number: 2
+Summary result: type: 1 category: Updated number: 1
+
+workspaceUrl: https://desktop-hortjob/svn/MyProject
+workspaceRevision: 8
+lowerRevision: 8
+upperRevision: 11
+merge https://desktop-hortjob/svn/MyProject D:/Application_Development_Practice/project_calculator/MyProject
+Message: 1 U           D:/Application_Development_Practice/project_calculator/MyProject/Project_calculator.java
+Message: 2 A           D:/Application_Development_Practice/project_calculator/MyProject/bin
+Message: 1 U           D:/Application_Development_Practice/project_calculator/MyProject/branches/Project_calculator.java
+Message: 3   U         D:/Application_Development_Practice/project_calculator/MyProject

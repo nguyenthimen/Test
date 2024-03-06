@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="CommitDialog.weights.0" value="500"/>
+	<item key="CommitDialog.weights.1" value="500"/>
+	<item key="CommitDialog.location.x" value="291"/>
+	<item key="CommitDialog.location.y" value="220"/>
+	<item key="CommitDialog.size.x" value="1339"/>
+	<item key="CommitDialog.size.y" value="436"/>
+	<item key="HistoryDialog.location.x" value="1056"/>
+	<item key="HistoryDialog.location.y" value="138"/>
+	<item key="HistoryDialog.size.x" value="400"/>
+	<item key="HistoryDialog.size.y" value="400"/>
+	<item key="HistoryDialog.weights.0" value="333"/>
+	<item key="HistoryDialog.weights.1" value="333"/>
+	<item key="HistoryDialog.weights.2" value="333"/>
+	<item key="HistoryTableProvider.HistoryDialog.Revision" value="48"/>
+	<item key="HistoryTableProvider.HistoryDialog.Date" value="119"/>
+	<item key="HistoryTableProvider.HistoryDialog.Author" value="94"/>
+	<item key="HistoryTableProvider.HistoryDialog.Comment" value="236"/>
+	<item key="UpdateDialogWithConflictHandling.location.x" value="610"/>
+	<item key="UpdateDialogWithConflictHandling.location.y" value="0"/>
+	<item key="UpdateDialogWithConflictHandling.size.x" value="700"/>
+	<item key="UpdateDialogWithConflictHandling.size.y" value="868"/>
+	<item key="HistoryTableProvider.revisions.Revision" value="102"/>
+	<item key="HistoryTableProvider.revisions.Date" value="253"/>
+	<item key="HistoryTableProvider.revisions.Author" value="202"/>
+	<item key="HistoryTableProvider.revisions.Comment" value="506"/>
+	<item key="HistoryTableProvider.revisionsBlock.Revision" value="102"/>
+	<item key="HistoryTableProvider.revisionsBlock.Date" value="253"/>
+	<item key="HistoryTableProvider.revisionsBlock.Author" value="202"/>
+	<item key="HistoryTableProvider.revisionsBlock.Comment" value="506"/>
+	<item key="HistoryTableProvider.MergeWizardUnblockRevisionsPage.Revision" value="102"/>
+	<item key="HistoryTableProvider.MergeWizardUnblockRevisionsPage.Date" value="254"/>
+	<item key="HistoryTableProvider.MergeWizardUnblockRevisionsPage.Author" value="202"/>
+	<item key="HistoryTableProvider.MergeWizardUnblockRevisionsPage.Comment" value="507"/>
+	<item key="ChooseUrlDialog.location.x" value="709"/>
+	<item key="ChooseUrlDialog.location.y" value="146"/>
+	<item key="ChooseUrlDialog.size.x" value="503"/>
+	<item key="ChooseUrlDialog.size.y" value="398"/>
+	<item key="RepositorySelectionPage.lastRepository" value="https://desktop-hortjob/svn/Individual_Project"/>
+	<item key="DirectorySelectionPage.lastParent_https://desktop-hortjob/svn/Individual_Project" value=""/>
+	<item key="HistoryTableProvider.SVNHistoryPage.Revision" value="101"/>
+	<item key="HistoryTableProvider.SVNHistoryPage.Date" value="251"/>
+	<item key="HistoryTableProvider.SVNHistoryPage.Author" value="200"/>
+	<item key="HistoryTableProvider.SVNHistoryPage.Comment" value="500"/>
+	<item key="RevertDialog.location.x" value="610"/>
+	<item key="RevertDialog.location.y" value="118"/>
+	<item key="RevertDialog.size.x" value="700"/>
+	<item key="RevertDialog.size.y" value="588"/>
+	<section name="NewLocationWizard">
+	</section>
+	<section name="CommitWizard">
+		<item key="VWeight1" value="500"/>
+		<item key="VWeight2" value="500"/>
+		<item key="ShowCompare" value="false"/>
+	</section>
+</section>
